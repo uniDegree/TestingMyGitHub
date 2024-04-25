@@ -1,1 +1,1 @@
-This is a very simple code to test with git hub.
+This is a very simple code to test with github.
