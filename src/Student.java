@@ -4,4 +4,9 @@ public class Student
     {
         return num + 3;
     }
+
+    public int subCal(int num)
+    {
+        return num - 3;
+    }
 }
